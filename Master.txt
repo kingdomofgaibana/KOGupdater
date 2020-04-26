@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-
+/data/Map024.json https://raw.githubusercontent.com/kingdomofgaibana/KOGupdater/master/Map024.json
 <End of Version>
